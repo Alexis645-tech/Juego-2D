@@ -45,9 +45,18 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scene1.unity
+    path: 
     guid: a7036b5944d0304479add5e29f74b5c7
   - enabled: 1
-    path: Assets/Scene2.unity
+    path: 
     guid: 498b6f548aebcfa4abab4be558593994
+  - enabled: 1
+    path: Assets/Scene1.unity
+    guid: 9f7178edc589aff40a459f994602767e
+  - enabled: 1
+    path: Assets/Bad1.unity
+    guid: 4b0731570dc69b243a0b7d3533ee2e3f
+  - enabled: 1
+    path: Assets/Good1.unity
+    guid: fae26cfe14629104a9b66ccf6fe07fd5
   m_configObjects: {}
