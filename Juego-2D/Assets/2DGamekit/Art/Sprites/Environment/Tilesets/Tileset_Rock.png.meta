@@ -372,7 +372,7 @@ TextureImporter:
       213: 21300244
     second: Tileset_Rock_CeilingCornerGrassSingleRight
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -392,6 +392,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -423,9 +424,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -2061,7 +2066,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2560
-        y: 6656
+        y: 6673
         width: 512
         height: 512
       alignment: 0
@@ -2737,8 +2742,8 @@ TextureImporter:
       name: Tileset_Rock_FloorCornerInnerRight2
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 5632
+        x: 3573
+        y: 6660
         width: 512
         height: 512
       alignment: 0
@@ -5507,7 +5512,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1adfa00cf13738040a60604492c0168f
     internalID: 0
     vertices: []
     indices: 
